@@ -18,7 +18,7 @@
     "wrtc": "^0.4.1"
   },
   "devDependencies": {
-    "standard": "*"
+    "standard": ">=13.1.0"
   },
   "engines": {
     "node": ">=10"
