@@ -14,7 +14,7 @@
   "dependencies": {
     "create-torrent": "^4.0.0",
     "webtorrent": ">=0.107.6",
-    "webtorrent-cli": "^3.0.0",
+    "webtorrent-cli": "^3.0.5",
     "wrtc": "^0.4.1"
   },
   "devDependencies": {
